@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <h1 align="center">Hi 👋, I'm Vimukthi kolitha</h1>
 <h3 align="center">A passionate Full stack developer from Sri lanka</h3>
 
